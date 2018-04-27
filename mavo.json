@@ -1,3 +1,21 @@
 {
-	
+	"people": [
+		{
+			"name": "Thijs De Baerdemaeker",
+			"email": "de.b.thijs@gmail.com",
+			"birth_date": "1997-09-22"
+		}
+	],
+	"events": [
+		{
+			"confirmations": [
+				{
+					"people": [
+						"\n                        "
+					]
+				}
+			],
+			"name": "test"
+		}
+	]
 }
