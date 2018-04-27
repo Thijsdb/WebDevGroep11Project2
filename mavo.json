@@ -1,17 +1,3 @@
 {
-	"firstName": "Thijs",
-	"people": [
-		{
-			"index": "http://events.restdesc.org/people",
-			"name": "thijs de baerdemaeker",
-			"email": "de.b.thijs@gmail.com",
-			"birth_date": "1997-09-22"
-		}
-	],
-	"events": [
-		{
-			"created_at": "\n            ",
-			"confirmations": []
-		}
-	]
+	
 }
