@@ -3,29 +3,26 @@
 		{
 			"name": "Thijs De Baerdemaeker",
 			"email": "de.b.thijs@gmail.com",
-			"birth_date": "1997-09-22"
+			"birth_date": "1997-09-22",
+			"created_at": "2018-04-26"
 		},
 		{
 			"name": "test",
 			"email": "test",
-			"birth_date": "2018-04-18"
+			"birth_date": "2018-04-18",
+			"created_at": "2018-04-27"
 		}
 	],
 	"events": [
 		{
 			"confirmations": [
-				{
-					"people": [
-						{
-							"name": "\n                        "
-						}
-					]
-				}
+				"Thijs De Baerdemaeker"
 			],
 			"name": "test",
 			"title": "TestEvent",
 			"start": "2018-04-18",
-			"end": "2018-04-18"
+			"end": "2018-04-18",
+			"created_at": "2018-04-26"
 		}
 	]
 }
