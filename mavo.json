@@ -4,6 +4,11 @@
 			"name": "Thijs De Baerdemaeker",
 			"email": "de.b.thijs@gmail.com",
 			"birth_date": "1997-09-22"
+		},
+		{
+			"name": "test",
+			"email": "test",
+			"birth_date": "2018-04-18"
 		}
 	],
 	"events": [
